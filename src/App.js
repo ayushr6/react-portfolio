@@ -14,7 +14,6 @@ const App = () => {
   return (
     <>
       <Header />
-
       <main className='main'>
         <Home />
         <About />

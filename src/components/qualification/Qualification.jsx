@@ -46,7 +46,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">BTech - CSE</h3>
                 <span className="qualification__substitle">JKLU, Jaipur</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt">2020 - Present</i>
+                  <i className="uil uil-calendar-alt"> 2020 - Present</i>
                 </div>
                 <br/>
               </div>
@@ -68,7 +68,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Senior Secondary School</h3>
                 <span className="qualification__substitle">Sanskar School, Jaipur</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt">2018 - 2020</i>
+                  <i className="uil uil-calendar-alt"> 2018 - 2020</i>
                 </div>
                 <br/>
               </div>
@@ -80,7 +80,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Secondary School</h3>
                 <span className="qualification__substitle">Sanskar School, Jaipur</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt">2012 - 2018</i>
+                  <i className="uil uil-calendar-alt"> 2012 - 2018</i>
                 </div>
               </div>
 
@@ -109,7 +109,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Software Engineer</h3>
                 <span className="qualification__substitle">DeepKlarity, Bangaluru</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt">December (2022) - Present</i>
+                  <i className="uil uil-calendar-alt"> December (2022) - Present</i>
                 </div>
                 <br/>
               </div>
@@ -121,7 +121,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Coding Club (President)</h3>
                 <span className="qualification__substitle">JKLU, Jaipur</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt">November (2022) - Present</i>
+                  <i className="uil uil-calendar-alt"> November (2022) - Present</i>
                 </div>
                 <br/>
               </div>
@@ -143,7 +143,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Data Engineer (part-time)</h3>
                 <span className="qualification__substitle">DeepKlarity, Bangaluru</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt">2018 - 2020</i>
+                  <i className="uil uil-calendar-alt"> Aug - Sept (2022)</i>
                 </div>
                 <br/>
               </div>
@@ -155,7 +155,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Data Engineer (internship)</h3>
                 <span className="qualification__substitle">DeepKlarity, Bangaluru</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt">June - July (2022)</i>
+                  <i className="uil uil-calendar-alt"> June - July (2022)</i>
                 </div>
               </div>
 
